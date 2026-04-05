@@ -1,0 +1,1 @@
+select orderid,customerid from sleekmart_oms.l1_landing.orders

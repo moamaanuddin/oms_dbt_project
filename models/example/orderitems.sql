@@ -1,0 +1,1 @@
+select orderid,(quantity*unitprice) as revenue from sleekmart_oms.l1_landing.orderitems
